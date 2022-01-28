@@ -23,6 +23,15 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
+       // "送给我",  ./imgs/xiaokeai.jpg"   
+      //  "超人爸爸", ./imgs/xiaokeai.jpg"
+        //"今天是你的生日",./imgs/xiaokeai.jpg"
+       // "是你使我的生活有了意义",./imgs/xiaokeai.jpg"
+       // "沧桑，刻满了您的额头",./imgs/xiaokeai.jpg"
+      //  "时间，带走了您的青春",./imgs/xiaokeai.jpg"
+      //  "但您依旧坚毅而伟岸",./imgs/xiaokeai.jpg"
+      //  "祝福您健康长寿，幸福不老！",./imgs/xiaokeai.jpg"
+      //  "HAPPY~~",./imgs/xiaokeai.jpg"
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -39,14 +48,14 @@ var config = {
 
 var config = {
   texts: [
-       // "送给我",     
-      //  "超人爸爸", 
-        //"今天是你的生日",
-       // "是你使我的生活有了意义",
-       // "沧桑，刻满了您的额头",
-      //  "时间，带走了您的青春",
-      //  "但您依旧坚毅而伟岸",
-      //  "祝福您健康长寿，幸福不老！",
-      //  "HAPPY~~",
+       // "送给我",  ./imgs/xiaokeai.jpg"   
+      //  "超人爸爸", ./imgs/xiaokeai.jpg"
+        //"今天是你的生日",./imgs/xiaokeai.jpg"
+       // "是你使我的生活有了意义",./imgs/xiaokeai.jpg"
+       // "沧桑，刻满了您的额头",./imgs/xiaokeai.jpg"
+      //  "时间，带走了您的青春",./imgs/xiaokeai.jpg"
+      //  "但您依旧坚毅而伟岸",./imgs/xiaokeai.jpg"
+      //  "祝福您健康长寿，幸福不老！",./imgs/xiaokeai.jpg"
+      //  "HAPPY~~",./imgs/xiaokeai.jpg"
  }
       
