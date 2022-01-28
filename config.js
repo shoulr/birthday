@@ -23,16 +23,6 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "超人爸爸": ": "./imgs/xiaokeai.png",
-        "祝福他健康长寿，幸福不老！": "./imgs/xiaokeai.png",
-        "今天是你的生日",: "./imgs/xiaokeai.png",
-        "是你使我的生活有了意义",: "./imgs/xiaokeai.png",
-        "沧桑，刻满了您的额头",: "./imgs/xiaokeai.png",
-        "时间，带走了您的青春",: "./imgs/xiaokeai.png",
-        "但您依旧坚毅而伟岸",: "./imgs/xiaokeai.png",
-        "祝福您健康长寿，幸福不老！",: "./imgs/xiaokeai.png",
-        //"HAPPY~~",: "./imgs/xiaokeai.png",
-        
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
