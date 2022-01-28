@@ -37,6 +37,7 @@ var config = {
     }
 };
 
+var config = {
   texts: [
        // "送给我",     
       //  "超人爸爸", 
